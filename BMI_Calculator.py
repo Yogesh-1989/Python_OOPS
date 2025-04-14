@@ -19,3 +19,6 @@ for i in range(people):
     show_results(weight, height)
 
 print("finally i started learnig oops in python)
+
+
+print("BMI calculator is ready for the use")
