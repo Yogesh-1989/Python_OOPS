@@ -17,3 +17,5 @@ for i in range(people):
     height = float(input("Enter height: "))
   
     show_results(weight, height)
+
+print("finally i started learnig oops in python)
